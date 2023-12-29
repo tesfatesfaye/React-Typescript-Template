@@ -1,4 +1,4 @@
-import "./App.css";
+import './assets/global.css'
 import {FC} from 'react'
 
 const App:FC =()=> {
