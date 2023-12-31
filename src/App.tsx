@@ -5,7 +5,7 @@ const App:FC =()=> {
 
   return (
     <>
-      <div className="App">
+      <div className="flex flex-col">
 
       </div>
     </>
